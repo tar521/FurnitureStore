@@ -1,0 +1,46 @@
+.Home .lander {
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  .Home .lander h1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+  }
+
+  .Home .rendered {
+    padding: 10px 0;
+    text-align: center;
+  }
+
+  .Home .rendered1 {
+    padding: 10px 0;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .Home .rendered2 {
+    padding: 10px 0;
+    text-align: center;
+    justify-content: end;
+  }
+
+  .Home .spacing {
+    padding: 10px 10px 10px 10px;
+  }
+
+  .Home .flexbox-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .Home .rendered h3 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+  }
+
+  .Home .card {
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+  }
